@@ -14,20 +14,20 @@ I am a PhD student in the School of Management, Guangdong Univeristy of Technolo
 ```markdown
 Two-sided market, Omini-channel management, Consumer learning, Information asymmetry
 ```
-### Publications (*corresponding author)
+### Publications (#corresponding author)
 ```markdown
 # Selcted papers
--You Zhao, Rui Hou, Xiaogang Lin*, Qiang Lin. Two-period information sharing in a supply chain under unique and differentiated wholesale pricing strategies. International Transactions in Operational Research, https:/doi.org/10.1111/itor.13081 (SSCI/SCI)
--You Zhao, Zibin Cui, Jianxin Chen, Rui Hou*. Pricing and quality decisions in a supply chain with consumers' privacy concern. Journal of Industrial and Management Optimization，https://doi.org/10.3934/jimo.2021226  (SCI)
--You Zhao, Rui Hou*, Xinggang Luo. Two-period pricing strategy in a supply chain with intertemporal and horizontal reference price effects. INFOR: Information Systems and Operational Research, 2021,59（4）: 639-667 https://doi.org/10.1080/03155986.2021.1985903 （SCI）
--Rui Hou, Liang Li, Xiaogang Lin*, Yong Zha, You Zhao. Pricing strategy for logistics service platforms withcompetitionanduserdistancepreference. InternationalTransactionsinOperationalResearch, (http://doi.org/10.1111/itor.12973, Impact factor: 2.987)
--Rui Hou, You Zhao, Mengqiang Zhu, Xiaogang Lin*. Price and quality decisions in a vertically differen- tiated supply chain with an “online-to-store” channel. Journal of Retailing and Consumer Services, (102593, Impact factor: 7.135).
--You Zhao, Rui Hou (*通讯). Should a supplier engage in the marketplace? an equilibrium analysis in a hybrid-format supply chain. RAIRO- Operations Research, 55 (2021) 2639–2655, https://doi.org/10.1051/ro/2021122 (SCI)
--Rui Hou, Zibin Cui, You Zhao*. Pricing leadership decisions of competing firms with consumer learning. Managerial and Decision Economics, Accepted  (SSCI)
--Rui Hou, Weijian Li，Xiaogang Lin, You Zhao*. Impact of quality decisions on information sharing with supplier encroachment. RAIRO- Operations Research, https://doi.org/10.1051/ro/2021184  (SCI)
+-**You Zhao**, Rui Hou, Xiaogang Lin#, Qiang Lin. Two-period information sharing in a supply chain under unique and differentiated wholesale pricing strategies. International Transactions in Operational Research, https:/doi.org/10.1111/itor.13081 (SSCI/SCI)
+-Rui Hou, **You Zhao**, Mengqiang Zhu, Xiaogang Lin#. Price and quality decisions in a vertically differen- tiated supply chain with an “online-to-store” channel. Journal of Retailing and Consumer Services, (102593, Impact factor: 7.135).
+-**You Zhao**, Zibin Cui, Jianxin Chen, Rui Hou#. Pricing and quality decisions in a supply chain with consumers' privacy concern. Journal of Industrial and Management Optimization，https://doi.org/10.3934/jimo.2021226  (SCI)
+-**You Zhao**, Rui Hou*, Xinggang Luo. Two-period pricing strategy in a supply chain with intertemporal and horizontal reference price effects. INFOR: Information Systems and Operational Research, 2021,59（4）: 639-667 https://doi.org/10.1080/03155986.2021.1985903 （SCI）
+-Rui Hou, Liang Li, Xiaogang Lin#, Yong Zha, **You Zhao**. Pricing strategy for logistics service platforms withcompetitionanduserdistancepreference. International Transactions in Operational Research, (http://doi.org/10.1111/itor.12973, Impact factor: 2.987)
+-**You Zhao**, Rui Hou#. Should a supplier engage in the marketplace? an equilibrium analysis in a hybrid-format supply chain. RAIRO- Operations Research, 55 (2021) 2639–2655, https://doi.org/10.1051/ro/2021122 (SCI)
+-Rui Hou, Zibin Cui, **You Zhao#**. Pricing leadership decisions of competing firms with consumer learning. Managerial and Decision Economics, Accepted  (SSCI)
+-Rui Hou, Weijian Li，Xiaogang Lin, **You Zhao#**. Impact of quality decisions on information sharing with supplier encroachment. RAIRO- Operations Research, https://doi.org/10.1051/ro/2021184  (SCI)
 ## Working papers
--You Zhao,Jianxin Chen, Rui Hou*. The value of information acquisition and sharing in an online intermediary platform. Under first-round review
--You Zhao, Rui Hou*, The Optimal Combination between Selling Agreement and Blockchain Adoption on Online Intermediary Platforms with Private Labels.
+-**You Zhao**,Jianxin Chen, Rui Hou#. The value of information acquisition and sharing in an online intermediary platform. Under first-round review
+-**You Zhao**, Rui Hou#, The Optimal Combination between Selling Agreement and Blockchain Adoption on Online Intermediary Platforms with Private Labels.
 
 
 ```
