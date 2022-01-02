@@ -30,19 +30,18 @@ of dispatch under uncertainty, International Symposium on Scheduling 2019, Japan
 ## Working papers
 -You Zhao,Jianxin Chen, Rui Hou#. The value of information acquisition and sharing in an online intermediary platform. Under first-round review
 -You Zhao, Rui Hou#, The Optimal Combination between Selling Agreement and Blockchain Adoption on Online Intermediary Platforms with Private Labels.
-
-
 ```
 ### Conference
 ```markdown
 -You Zhao, Rui Hou, Xiaogang Lin#, Qiang Lin. Two-period information sharing in a supply chain under unique and differentiated wholesale pricing strategies, SSOM2021, Guangzhou, China
 -You Zhao and Hiroshige Dan#, Optimization Model For Allocating Emergency Vehicles With Integration Dispatch, 2019 INFORMS Annual Meeting, Seattle, Washington, 2019/10/20-23.
--You Zhao and Hiroshige Dan*, Optimization model for emergency vehicle allocation with integration of dispatch under uncertainty, International Symposium on Scheduling 2019, Japan, 2019/7/5-7 (referee reading).
--You Zhao and Hiroshige Dan*, Optimization model for emergency vehicle allocation with integration of dispatch under uncertainty, The 2019 Fall National Conference of Operations Research Society of Japan, Japan, 2019/3/13-15 (in Japanese).
--You Zhao and Hiroshige Dan*, Optimization model for emergency vehicle allocation with integration of dispatch, The Summer seminar of Operations Research Society of Japan, Japan, 2018/10/2-4 (in Japanese). 
+-You Zhao and Hiroshige Dan#, Optimization model for emergency vehicle allocation with integration of dispatch under uncertainty, International Symposium on Scheduling 2019, Japan, 2019/7/5-7 (referee reading).
+-You Zhao and Hiroshige Dan#, Optimization model for emergency vehicle allocation with integration of dispatch under uncertainty, The 2019 Fall National Conference of Operations Research Society of Japan, Japan, 2019/3/13-15 (in Japanese).
+-You Zhao and Hiroshige Dan#, Optimization model for emergency vehicle allocation with integration of dispatch, The Summer seminar of Operations Research Society of Japan, Japan, 2018/10/2-4 (in Japanese). 
 ```
 
 ### Scholarship and award
+```markdown
 -Visiting student supported by CSC，2021
 -Guangdong University of Technology Graduate Innovation top talent，2021
 -First class academic scholarship for Postgraduates of Guangdong University of Technology，2021
@@ -50,7 +49,7 @@ of dispatch under uncertainty, International Symposium on Scheduling 2019, Japan
 -Kansai University Benefit Scholarship，2019
 -Japan Scheduling Society Encouragement Award，2019
 -Kansai University Benefit Scholarship，2018
-
+```
 
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
