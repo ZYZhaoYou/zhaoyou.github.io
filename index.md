@@ -37,13 +37,15 @@ Two-sided market, Omini-channel management, Consumer learning, Information asymm
 -You Zhao, Rui Hou#, The Optimal Combination between Selling Agreement and Blockchain Adoption on Online Intermediary Platforms with Private Labels.
 
 ### Conference (#corresponding author)
-```markdown
 -You Zhao, Rui Hou, Xiaogang Lin#, Qiang Lin. Two-period information sharing in a supply chain under unique and differentiated wholesale pricing strategies, SSOM2021, Guangzhou, China
+
 -You Zhao and Hiroshige Dan#, Optimization Model For Allocating Emergency Vehicles With Integration Dispatch, 2019 INFORMS Annual Meeting, Seattle, Washington, 2019/10/20-23.
+
 -You Zhao and Hiroshige Dan#, Optimization model for emergency vehicle allocation with integration of dispatch under uncertainty, International Symposium on Scheduling 2019, Japan, 2019/7/5-7 (referee reading).
+
 -You Zhao and Hiroshige Dan#, Optimization model for emergency vehicle allocation with integration of dispatch under uncertainty, The 2019 Fall National Conference of Operations Research Society of Japan, Japan, 2019/3/13-15 (in Japanese).
+
 -You Zhao and Hiroshige Dan#, Optimization model for emergency vehicle allocation with integration of dispatch, The Summer seminar of Operations Research Society of Japan, Japan, 2018/10/2-4 (in Japanese). 
-```
 
 ### Scholarship and award
 -Visiting student supported by CSC，2021
