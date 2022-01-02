@@ -27,7 +27,7 @@ of dispatch under uncertainty, International Symposium on Scheduling 2019, Japan
 -You Zhao, Rui Hou#. Should a supplier engage in the marketplace? an equilibrium analysis in a hybrid-format supply chain. RAIRO- Operations Research, 55 (2021) 2639–2655, https://doi.org/10.1051/ro/2021122 (SCI)
 -Rui Hou, Zibin Cui, You Zhao#. Pricing leadership decisions of competing firms with consumer learning. Managerial and Decision Economics, Accepted  (SSCI)
 -Rui Hou, Weijian Li，Xiaogang Lin, You Zhao#. Impact of quality decisions on information sharing with supplier encroachment. RAIRO- Operations Research, https://doi.org/10.1051/ro/2021184  (SCI)
-# Working papers
+# Working papers (#corresponding author)
 -You Zhao,Jianxin Chen, Rui Hou#. The value of information acquisition and sharing in an online intermediary platform. Under first-round review
 -You Zhao, Rui Hou#, The Optimal Combination between Selling Agreement and Blockchain Adoption on Online Intermediary Platforms with Private Labels.
 ```
