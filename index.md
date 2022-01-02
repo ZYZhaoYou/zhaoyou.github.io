@@ -18,9 +18,7 @@ Two-sided market, Omini-channel management, Consumer learning, Information asymm
 ```markdown
 # Selected papers
 -You Zhao, Rui Hou, Xiaogang Lin#, Qiang Lin. Two-period information sharing in a supply chain under unique and differentiated wholesale pricing strategies. International Transactions in Operational Research, https:/doi.org/10.1111/itor.13081 (SSCI/SCI)
--Rui Hou, You Zhao, Mengqiang Zhu, Xiaogang Lin#. Price and quality decisions in a vertically differen- tiated supply chain with an “online-to-store” channel. Journal of Retailing and Consumer Services, (102593, Impact factor: 7.135). You Zhao and Hiroshige Dan*, Optimization model for emergency vehicle allocation with integration
-of dispatch under uncertainty, International Symposium on Scheduling 2019, Japan, 2019/7/5-7
-(referee reading).
+-Rui Hou, You Zhao, Mengqiang Zhu, Xiaogang Lin#. Price and quality decisions in a vertically differen- tiated supply chain with an “online-to-store” channel. Journal of Retailing and Consumer Services, (102593, Impact factor: 7.135). 
 -You Zhao, Zibin Cui, Jianxin Chen, Rui Hou#. Pricing and quality decisions in a supply chain with consumers' privacy concern. Journal of Industrial and Management Optimization，https://doi.org/10.3934/jimo.2021226  (SCI)
 -You Zhao, Rui Hou#, Xinggang Luo. Two-period pricing strategy in a supply chain with intertemporal and horizontal reference price effects. INFOR: Information Systems and Operational Research, 2021,59（4）: 639-667 https://doi.org/10.1080/03155986.2021.1985903 （SCI）
 -Rui Hou, Liang Li, Xiaogang Lin#, Yong Zha, You Zhao. Pricing strategy for logistics service platforms withcompetitionanduserdistancepreference. International Transactions in Operational Research, (http://doi.org/10.1111/itor.12973, Impact factor: 2.987)
