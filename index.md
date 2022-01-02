@@ -1,7 +1,8 @@
 # Welcome to You Zhao's personal page
 <a href ="https://github.com/ZYZhaoYou">
-<div align=left> <img src="https://github.com/ZYZhaoYou/zhaoyou728.github.io/blob/gh-pages/123.jpg" width = "400" height = "300"/> </div>
+<img src="https://github.com/ZYZhaoYou/zhaoyou728.github.io/blob/gh-pages/123.jpg"  width = "400" height = "300" alt="" align=left />
 </a>
+
  I am a PhD student in the [School of Management, Guangdong Univeristy of Technology, China.](https://glxy.gdut.edu.cn/) My supervisor is Prof. Rui Hou. I obtained my Master degree in the [Environmental and Urban Engineering, Kansai Univeristy, Japan,](https://www.kansai-u.ac.jp/Fc_env/index.html) and supervised by Prof. Hiroshige Dan.
 
 ## Education
@@ -66,5 +67,4 @@ Two-sided market, Omini-channel management, Consumer learning, Information asymm
 
 -Kansai University Benefit Scholarship，2018
 
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+ 
