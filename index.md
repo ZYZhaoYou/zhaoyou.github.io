@@ -1,10 +1,18 @@
 ## Welcome to You Zhao's personal page
+```markdown
+I am a PhD student in the [School of Management, Guangdong Univeristy of Technology, China](https://glxy.gdut.edu.cn/). My supervisor is Prof. Rui Hou. I obtained my Master degree in the Environmental and Urban Engineering, Kansai Univeristy, Japan, and supervised by Prof. Hiroshige Dan.
+```
 
-You can use the [editor on GitHub](https://github.com/ZYZhaoYou/zhaoyou.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Education
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+```markdown
+-Visiting PhD student, School of Management, Univeristy College London, United Kingdom, 2021.11-present (Supervisor: Prof. Dongyuan Zhan)
+-PhD student, School of Management, Guangdong Univeristy of Technology, China, 2020.9-present (Supervisor: Prof. Rui Hou)
+-Master,  Environmental and Urban Engineering, Kansai Univeristy, Japan, 2018.4-2020.4 (Supervisor: Prof. Hiroshige Dan)
+-Research student,  Environmental and Urban Engineering, Kansai Univeristy, Japan, 2017.9-2018.3 (Supervisor: Prof. Hiroshige Dan)
+-Bachelor, School of Business, Hebei Agricultural University, China, 2013.9-2017.6
+```
+### Research Interests
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
