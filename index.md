@@ -16,7 +16,7 @@ Two-sided market, Omini-channel management, Consumer learning, Information asymm
 ```
 ### Publications (#corresponding author)
 ```markdown
-# Selcted papers
+# Selected papers
 -**You Zhao**, Rui Hou, Xiaogang Lin#, Qiang Lin. Two-period information sharing in a supply chain under unique and differentiated wholesale pricing strategies. International Transactions in Operational Research, https:/doi.org/10.1111/itor.13081 (SSCI/SCI)
 -Rui Hou, **You Zhao**, Mengqiang Zhu, Xiaogang Lin#. Price and quality decisions in a vertically differen- tiated supply chain with an “online-to-store” channel. Journal of Retailing and Consumer Services, (102593, Impact factor: 7.135).
 -**You Zhao**, Zibin Cui, Jianxin Chen, Rui Hou#. Pricing and quality decisions in a supply chain with consumers' privacy concern. Journal of Industrial and Management Optimization，https://doi.org/10.3934/jimo.2021226  (SCI)
