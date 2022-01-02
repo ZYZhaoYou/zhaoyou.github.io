@@ -9,6 +9,7 @@ I am a PhD student in the [School of Management, Guangdong Univeristy of Technol
 -Master,  Environmental and Urban Engineering, Kansai Univeristy, Japan, 2018.4-2020.4 (Supervisor: [Prof. Hiroshige Dan](https://gakujo.kansai-u.ac.jp/profile/ja/5Ud2e89f8d0f01Nb4a7cac6a3a6ef.html))
 
 -Research student,  Environmental and Urban Engineering, Kansai Univeristy, Japan, 2017.9-2018.3 (Supervisor: [Prof. Hiroshige Dan](https://gakujo.kansai-u.ac.jp/profile/ja/5Ud2e89f8d0f01Nb4a7cac6a3a6ef.html))
+
 -Bachelor, School of Business, Hebei Agricultural University, China, 2013.9-2017.6
 ### Research Interests
 Two-sided market, Omini-channel management, Consumer learning, Information asymmetry
