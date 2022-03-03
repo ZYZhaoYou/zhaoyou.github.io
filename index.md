@@ -40,6 +40,7 @@ Two-sided market, Omni-channel management, Consumer learning, Information asymme
 
 -You Zhao, Rui Hou#, The Optimal Combination between Selling Agreement and Blockchain Adoption on Online Intermediary Platforms with Private Labels.
 
+-You Zhao, Rui Hou#, Friend or Foe? Value of Secondary Markets with Socially Conscious.
 ### Conference (#corresponding author)
 -You Zhao, Rui Hou, Xiaogang Lin#, Qiang Lin. Two-period information sharing in a supply chain under unique and differentiated wholesale pricing strategies, SSOM2021, Guangzhou, China
 
