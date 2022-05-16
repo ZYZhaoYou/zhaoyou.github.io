@@ -36,11 +36,11 @@ Two-sided market, Omni-channel management, Consumer learning, Information asymme
 
 -Rui Hou, Weijian Li，Xiaogang Lin, You Zhao#. Impact of quality decisions on information sharing with supplier encroachment. RAIRO- Operations Research, https://doi.org/10.1051/ro/2021184  (SCI)
 ### Working papers
--You Zhao,Jianxin Chen, Rui Hou#. The value of information acquisition and sharing in an online intermediary platform. Under first-round review
+-You Zhao,Jianxin Chen, Rui Hou#. The value of information acquisition and sharing in an online intermediary platform. Under first-round review.
 
--You Zhao, Rui Hou#, The Optimal Combination between Selling Agreement and Blockchain Adoption on Online Intermediary Platforms with Private Labels.
+-You Zhao, Rui Hou#, Manufacturer Encroachment with Carbon Cap-and-Trade Policy under Asymmetric Information.
 
--You Zhao, Rui Hou#, Friend or Foe? Value of Secondary Markets with Socially Conscious.
+-You Zhao, Rui Hou#, The Value of Blockchain-Powered Secondary Markets in the Presence of Socially Conscious.
 ### Conference (#corresponding author)
 -You Zhao, Rui Hou, Xiaogang Lin#, Qiang Lin. Two-period information sharing in a supply chain under unique and differentiated wholesale pricing strategies, SSOM2021, Guangzhou, China
 
