@@ -15,7 +15,7 @@
 
 -Bachelor, School of Business, Hebei Agricultural University, China, 2013.9-2017.6
 ## Research Interests
-Two-sided market, Omni-channel management, Consumer learning, Information asymmetry
+Supply chain management, OM-marketing, Two-sided market, Omni-channel management
 
 ## Publications (#corresponding author)
 
