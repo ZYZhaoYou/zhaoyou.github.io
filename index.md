@@ -1,5 +1,5 @@
 # Welcome to You Zhao's personal page
-<a href ="https://github.com/ZYZhaoYou"><img src="123.jpg"  width = "400" height = "300" alt="" align=left />
+<a href ="https://github.com/ZYZhaoYou"><img src="123.JPG"  width = "400" height = "300" alt="" align=left />
 </a>
 
  I am a PhD student in the [School of Management, Guangdong University of Technology, China.](https://glxy.gdut.edu.cn/) My supervisor is Prof. Rui Hou. I obtained my Master degree in the [Environmental and Urban Engineering, Kansai University, Japan,](https://www.kansai-u.ac.jp/Fc_env/index.html) and supervised by Prof. Hiroshige Dan.
