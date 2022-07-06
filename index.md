@@ -35,7 +35,7 @@ Supply chain management, OM-marketing, Two-sided market, Omni-channel management
 
 -Rui Hou, Weijian Li，Xiaogang Lin, You Zhao#. Impact of quality decisions on information sharing with supplier encroachment. RAIRO- Operations Research, https://doi.org/10.1051/ro/2021184  (SCI)
 ### Working papers
--You Zhao,Jianxin Chen, Rui Hou#. The value of information acquisition and sharing in an online intermediary platform. Major revision, Electronic Commerce Research.
+-You Zhao,Jianxin Chen, Ping Shi, Rui Hou#. The value of information acquisition and sharing in an online intermediary platform. Major revision, Electronic Commerce Research.
 
 -You Zhao, Rui Hou#, Manufacturer Encroachment with Carbon Cap-and-Trade Policy under Asymmetric Information.
 
