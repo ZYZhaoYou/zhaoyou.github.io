@@ -44,7 +44,7 @@ Supply chain management, OM-marketing, Two-sided market, Omni-channel management
 -You Zhao, Rui Hou#, Manufacturer Encroachment with Carbon Cap-and-Trade Policy under Asymmetric Information.
 
 -You Zhao, Rui Hou#, The Value of Blockchain-Powered Secondary Markets in the Presence of Socially Conscious.
-### Conference (#corresponding author)
+### Conference 
 -You Zhao, Rui Hou, Xiaogang Lin#, Qiang Lin. Two-period information sharing in a supply chain under unique and differentiated wholesale pricing strategies, SSOM2021, Guangzhou, China
 
 -You Zhao and Hiroshige Dan#, Optimization Model For Allocating Emergency Vehicles With Integration Dispatch, 2019 INFORMS Annual Meeting, Seattle, Washington, United States, 2019/10/20-23.
@@ -56,22 +56,22 @@ Supply chain management, OM-marketing, Two-sided market, Omni-channel management
 -You Zhao and Hiroshige Dan#, Optimization model for emergency vehicle allocation with integration of dispatch, The Summer seminar of Operations Research Society of Japan, Japan, 2018/10/2-4 (in Japanese). 
 
 ## Scholarship and award
--China National Scholarship，2022
+-China National Scholarship, 2022
 
--First class academic scholarship for Postgraduates of Guangdong University of Technology，2022
+-First class academic scholarship for Postgraduates of Guangdong University of Technology, 2022
 
--Visiting student supported by CSC，2021
+-Visiting student supported by CSC, 2021
 
--Guangdong University of Technology Graduate Innovation top talent，2021
+-Guangdong University of Technology Graduate Innovation top talent, 2021
 
--First class academic scholarship for Postgraduates of Guangdong University of Technology，2021
+-First class academic scholarship for Postgraduates of Guangdong University of Technology, 2021
 
--Academic scholarship for Postgraduates of Guangdong University of Technology，2020
+-Academic scholarship for Postgraduates of Guangdong University of Technology, 2020
 
--Kansai University Benefit Scholarship，2019
+-Kansai University Benefit Scholarship, 2019
 
--Japan Scheduling Society Encouragement Award，2019
+-Japan Scheduling Society Encouragement Award, 2019
 
--Kansai University Benefit Scholarship，2018
+-Kansai University Benefit Scholarship, 2018
 ## Visitor counter
  <a href="https://info.flagcounter.com/A4CS"><img src="https://s11.flagcounter.com/count2/A4CS/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
