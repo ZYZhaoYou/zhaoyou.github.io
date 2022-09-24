@@ -37,6 +37,9 @@ Supply chain management, OM-marketing, Two-sided market, Omni-channel management
 
 -Rui Hou, Weijian Li，Xiaogang Lin, You Zhao#. Impact of quality decisions on information sharing with supplier encroachment. RAIRO- Operations Research, https://doi.org/10.1051/ro/2021184  (SCI)
 ### Working papers
+-Zibin Cui, Chengming Du, You Zhao, Rui Hou#, Zhonghui Ding, A Bane or a Boon? Impacts of IoT Cyber-Defense Improvement in E-Commerce Channel.
+
+-You Zhao, Rui Hou, Ying-ju Chen#, Channel Structures Selection: The Role of E-Commerce Platforms' Voluntary Investment.
 
 -You Zhao, Rui Hou#, Manufacturer Encroachment with Carbon Cap-and-Trade Policy under Asymmetric Information.
 
@@ -53,6 +56,10 @@ Supply chain management, OM-marketing, Two-sided market, Omni-channel management
 -You Zhao and Hiroshige Dan#, Optimization model for emergency vehicle allocation with integration of dispatch, The Summer seminar of Operations Research Society of Japan, Japan, 2018/10/2-4 (in Japanese). 
 
 ## Scholarship and award
+-China National Scholarship，2022
+
+-First class academic scholarship for Postgraduates of Guangdong University of Technology，2022
+
 -Visiting student supported by CSC，2021
 
 -Guangdong University of Technology Graduate Innovation top talent，2021
