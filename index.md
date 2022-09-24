@@ -1,7 +1,7 @@
 # Welcome to You Zhao (赵 友)'s personal page
 <div><img src="123.jpg" alt="" width = "400" height = "300" alt="" align=left></div>  
 
- I am a PhD student in the [School of Management, Guangdong University of Technology, China.](https://glxy.gdut.edu.cn/) My supervisor is Prof. Rui Hou. I obtained my Master degree in the [Environmental and Urban Engineering, Kansai University, Japan,](https://www.kansai-u.ac.jp/Fc_env/index.html) and supervised by Prof. Hiroshige Dan. Email: zhaoyou728 "at" outlook.com.
+ I am a PhD student in the [School of Management, Guangdong University of Technology, China.](https://glxy.gdut.edu.cn/) My supervisor is Prof. Rui Hou. I obtained my Master degree in the [Environmental and Urban Engineering, Kansai University, Japan,](https://www.kansai-u.ac.jp/Fc_env/index.html) and supervised by Prof. Hiroshige Dan. My e-mail is: zhaoyou728 "at" outlook.com.
 
 ## Education
 -Visiting PhD student, School of Management, University College London, United Kingdom, 2021.11-present (Supervisor: [Prof. Dongyuan Zhan](http://www.mgmt.ucl.ac.uk/people/dongyuanzhan))
