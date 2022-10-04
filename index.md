@@ -19,9 +19,9 @@ Supply chain management, OM-marketing, Two-sided market, Omni-channel management
 ## Publications (#corresponding author)
 
 ### Selected papers
--You Zhao,Jianxin Chen, Ping Shi, Rui Hou#. The value of information acquisition and sharing in an online intermediary platform. Electronic Commerce Research, accepted.
+-You Zhao,Jianxin Chen, Ping Shi, Rui Hou#. The value of information acquisition and sharing on an online intermediary platform. Electronic Commerce Research, accepted.
 
--You Zhao, Rui Hou, Xiaogang Lin#, Qiang Lin. Two-period information sharing in a supply chain under unique and differentiated wholesale pricing strategies. International Transactions in Operational Research, https:/doi.org/10.1111/itor.13081 (SSCI/SCI)
+-You Zhao, Rui Hou, Xiaogang Lin#, Qiang Lin. Two-period information-sharing and quality decision in a supply chain under static and dynamic wholesale pricing strategies. International Transactions in Operational Research, https:/doi.org/10.1111/itor.13081 (SSCI/SCI)
 
 -Rui Hou, You Zhao, Mengqiang Zhu, Xiaogang Lin#. Price and quality decisions in a vertically differentiated supply chain with an “online-to-store” channel. Journal of Retailing and Consumer Services, (102593, Impact factor: 7.135, SSCI). 
 
