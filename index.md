@@ -39,7 +39,7 @@ Supply chain management, OM-marketing, Two-sided market, Omni-channel management
 ### Working papers
 -Zibin Cui, Chengming Du, You Zhao, Rui Hou#, Zhonghui Ding, A Bane or a Boon? Impacts of IoT Cyber-Defense Improvement in E-Commerce Channel.
 
--You Zhao, Rui Hou, Ying-ju Chen#, Channel Structures Selection: The Role of E-Commerce Platforms' Voluntary Investment.
+-You Zhao, Rui Hou, Ying-Ju Chen#, Channel Structures Selection: The Role of E-Commerce Platforms' Voluntary Investment.
 
 -You Zhao, Rui Hou#, Manufacturer Encroachment with Carbon Cap-and-Trade Policy under Asymmetric Information.
 
