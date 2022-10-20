@@ -56,7 +56,6 @@ Supply chain management, OM-marketing, Two-sided market, Omni-channel management
 -You Zhao and Hiroshige Dan#, Optimization model for emergency vehicle allocation with integration of dispatch, The Summer seminar of Operations Research Society of Japan, Japan, 2018/10/2-4 (in Japanese). 
 
 ## Scholarship and award
--China National Scholarship, 2022
 
 -First class academic scholarship for Postgraduates of Guangdong University of Technology, 2022
 
