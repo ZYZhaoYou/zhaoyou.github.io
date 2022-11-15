@@ -43,7 +43,7 @@ Supply chain management, OM-marketing, Two-sided market, Omni-channel management
 
 -You Zhao, Rui Hou#, Manufacturer Encroachment with Carbon Cap-and-Trade Policy under Asymmetric Information, Reject and Resubmit @ TRE.
 
--You Zhao, Rui Hou#, Zhonghui Ding, The Value of Blockchain-Powered Secondary Markets in the Presence of Socially Conscious, Major Revision @ TRE.
+-You Zhao, Rui Hou#, Zhonghui Ding, The Value of Blockchain-Powered Secondary Markets in the Presence of Socially Conscious, Major Revision @ ORIJ.
 ### Conference 
 -You Zhao, Rui Hou, Xiaogang Lin#, Qiang Lin. Two-period information sharing in a supply chain under unique and differentiated wholesale pricing strategies, SSOM2021, Guangzhou, China
 
