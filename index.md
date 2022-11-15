@@ -19,7 +19,7 @@ Supply chain management, OM-marketing, Two-sided market, Omni-channel management
 ## Publications (#corresponding author)
 
 ### Selected papers
--You Zhao,Jianxin Chen, Ping Shi, Rui Hou#. The value of information acquisition and sharing on an online intermediary platform. Electronic Commerce Research, accepted.
+-You Zhao,Jianxin Chen, Ping Shi, Rui Hou#. The value of information acquisition and sharing on an online intermediary platform. Electronic Commerce Research,  SSCI, accepted.
 
 -You Zhao, Rui Hou, Xiaogang Lin#, Qiang Lin. Two-period information-sharing and quality decision in a supply chain under static and dynamic wholesale pricing strategies. International Transactions in Operational Research, https:/doi.org/10.1111/itor.13081 (SSCI/SCI)
 
@@ -41,9 +41,9 @@ Supply chain management, OM-marketing, Two-sided market, Omni-channel management
 
 -You Zhao, Rui Hou, Ying-Ju Chen#, Channel Structures Selection: The Role of E-Commerce Platforms' Voluntary Investment.
 
--You Zhao, Rui Hou#, Manufacturer Encroachment with Carbon Cap-and-Trade Policy under Asymmetric Information.
+-You Zhao, Rui Hou#, Manufacturer Encroachment with Carbon Cap-and-Trade Policy under Asymmetric Information, Reject and Resubmit @ TRE.
 
--You Zhao, Rui Hou#, Zhonghui Ding, The Value of Blockchain-Powered Secondary Markets in the Presence of Socially Conscious.
+-You Zhao, Rui Hou#, Zhonghui Ding, The Value of Blockchain-Powered Secondary Markets in the Presence of Socially Conscious, Major Revision @ TRE.
 ### Conference 
 -You Zhao, Rui Hou, Xiaogang Lin#, Qiang Lin. Two-period information sharing in a supply chain under unique and differentiated wholesale pricing strategies, SSOM2021, Guangzhou, China
 
