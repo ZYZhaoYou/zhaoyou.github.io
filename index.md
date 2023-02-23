@@ -16,7 +16,7 @@
 
 -Bachelor, School of Business, Hebei Agricultural University, China, 2013.9-2017.6
 ## Research Interests
-Supply chain management, OM-marketing, Two-sided market, Omni-channel management
+Supply chain management, OM-marketing, Two-sided market
 
 ## Publications (#corresponding author)
 
