@@ -59,6 +59,8 @@ Supply chain management, OM-marketing, Two-sided market, Omni-channel management
 
 ## Scholarship and award
 
+-Visiting student supported by GDUT, 2022
+
 -First class academic scholarship for Postgraduates of Guangdong University of Technology, 2022
 
 -Visiting student supported by CSC, 2021
