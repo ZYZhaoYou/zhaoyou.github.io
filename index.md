@@ -4,7 +4,7 @@
  I am a PhD student in the [School of Management, Guangdong University of Technology, China.](https://glxy.gdut.edu.cn/) My supervisor is Prof. Rui Hou. I obtained my Master degree in the [Environmental and Urban Engineering, Kansai University, Japan,](https://www.kansai-u.ac.jp/Fc_env/index.html) and supervised by Prof. Hiroshige Dan. My e-mail is: zhaoyou728 "at" outlook.com.
 
 ## Education
--Visiting PhD student, Information Systems, Business Statistics and Operations Management, Hong Kong University of Science and Technology, HongKong, 2022.2-present
+-Visiting PhD student, Information Systems, Business Statistics and Operations Management, Hong Kong University of Science and Technology, HongKong, 2022.2-present (Supervisor: [Prof. Ying-Ju Chen](https://imchen.people.ust.hk/))
 
 -Visiting PhD student, School of Management, University College London, United Kingdom, 2021.11-2022.10 (Supervisor: [Prof. Dongyuan Zhan](http://www.mgmt.ucl.ac.uk/people/dongyuanzhan))
 
@@ -43,9 +43,9 @@ Supply chain management, OM-marketing, Two-sided market
 
 -You Zhao, Rui Hou, Ying-Ju Chen#, Channel Structures Selection: The Role of E-Commerce Platforms' Voluntary Investment.
 
--You Zhao, Rui Hou#, Manufacturer Encroachment with Carbon Cap-and-Trade Policy under Asymmetric Information, Reject and Resubmit @ TRE.
+-You Zhao, Rui Hou#, Manufacturer Encroachment with Carbon Cap-and-Trade Policy under Asymmetric Information, Second round review  @ TRE.
 
--You Zhao, Rui Hou#, Zhonghui Ding, The Value of Blockchain-Powered Secondary Markets in the Presence of Socially Conscious, Major Revision @ ORIJ.
+-You Zhao, Rui Hou#, Zhonghui Ding, The Value of Blockchain-Powered Secondary Markets in the Presence of Socially Conscious, Second round review @ ORIJ.
 ### Conference 
 -You Zhao, Rui Hou, Xiaogang Lin#, Qiang Lin. Two-period information sharing in a supply chain under unique and differentiated wholesale pricing strategies, SSOM2021, Guangzhou, China
 
