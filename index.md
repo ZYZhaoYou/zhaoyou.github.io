@@ -4,7 +4,7 @@
  I am a PhD student in the [School of Management, Guangdong University of Technology, China.](https://glxy.gdut.edu.cn/) My supervisor is Prof. Rui Hou. I obtained my Master degree in the [Environmental and Urban Engineering, Kansai University, Japan,](https://www.kansai-u.ac.jp/Fc_env/index.html) and supervised by Prof. Hiroshige Dan. My e-mail is: zhaoyou728 "at" outlook.com.
 
 ## Education
--Visiting PhD student, Information Systems, Business Statistics and Operations Management, Hong Kong University of Science and Technology, HongKong, 2022.2-present (Supervisor: [Prof. Ying-Ju Chen](https://imchen.people.ust.hk/))
+-Visiting PhD student, Information Systems, Business Statistics and Operations Management, Hong Kong University of Science and Technology, HongKong, 2023.2-present (Supervisor: [Prof. Ying-Ju Chen](https://imchen.people.ust.hk/))
 
 -Visiting PhD student, School of Management, University College London, United Kingdom, 2021.11-2022.10 (Supervisor: [Prof. Dongyuan Zhan](http://www.mgmt.ucl.ac.uk/people/dongyuanzhan))
 
