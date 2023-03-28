@@ -47,7 +47,7 @@ Supply chain management, OM-marketing, Two-sided market
 
 -Zibin Cui, Chengming Du, You Zhao, Rui Hou#, Zhonghui Ding, A Bane or a Boon? Impacts of IoT Cyber-Defense Improvement in E-Commerce Channel, First round review @ OMR.
 
--You Zhao, Rui Hou, Ying-Ju Chen#, Channel Structures of E-Commerce Platforms with Voluntary Investment.
+-You Zhao, Rui Hou, Ying-Ju Chen#, Channel Structures of E-Commerce Platforms with Voluntary Investment, Under revesion.
 
 ### Conference 
 -You Zhao, Rui Hou, Xiaogang Lin#, Qiang Lin. Two-period information sharing in a supply chain under unique and differentiated wholesale pricing strategies, SSOM2021, Guangzhou, China
