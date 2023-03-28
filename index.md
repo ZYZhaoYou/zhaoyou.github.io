@@ -39,13 +39,16 @@ Supply chain management, OM-marketing, Two-sided market
 
 -Rui Hou, Weijian Li，Xiaogang Lin, You Zhao#. Impact of quality decisions on information sharing with supplier encroachment. RAIRO- Operations Research, https://doi.org/10.1051/ro/2021184  (SCI)
 ### Working papers
--Zibin Cui, Chengming Du, You Zhao, Rui Hou#, Zhonghui Ding, A Bane or a Boon? Impacts of IoT Cyber-Defense Improvement in E-Commerce Channel.
-
--You Zhao, Rui Hou, Ying-Ju Chen#, Channel Structures Selection: The Role of E-Commerce Platforms' Voluntary Investment.
+-Rui Hou, Linqing Gao, You Zhao#, Lu Xiao, Upstream or Downstream: Who Should Adopt Blockchain Technology in a Dual-Channel Supply Chain?, First round review @TRE
 
 -You Zhao, Rui Hou#, Manufacturer Encroachment with Carbon Cap-and-Trade Policy under Asymmetric Information, Second round review  @ TRE.
 
 -You Zhao, Rui Hou#, Zhonghui Ding, The Value of Blockchain-Powered Secondary Markets in the Presence of Socially Conscious, Second round review @ ORIJ.
+
+-Zibin Cui, Chengming Du, You Zhao, Rui Hou#, Zhonghui Ding, A Bane or a Boon? Impacts of IoT Cyber-Defense Improvement in E-Commerce Channel, First round review @ OMR.
+
+-You Zhao, Rui Hou, Ying-Ju Chen#, Channel Structures of E-Commerce Platforms with Voluntary Investment.
+
 ### Conference 
 -You Zhao, Rui Hou, Xiaogang Lin#, Qiang Lin. Two-period information sharing in a supply chain under unique and differentiated wholesale pricing strategies, SSOM2021, Guangzhou, China
 
